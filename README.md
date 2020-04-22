@@ -9,7 +9,7 @@ Files in the Data folder
 - <b>MUP_OHP_R19_P04_V10_D17_APC_Provider.csv</b><br>
    <i>Hospital Outpatient</i>
 - <b>508-Compliant-Version-of-2020_january_web_addendum_b.12312019.csv</b><br> and<br> <b>2020_january_web_addendum_b.12312019.csv</b><br>
-     <i>APC to CPT/HCPCS crosswalk</>   
+     <i>APC to CPT/HCPCS crosswalk</i>   
 - <b>ZIP_CBSA_032020.csv</b><br>
     Zip Code to CBSA
 
