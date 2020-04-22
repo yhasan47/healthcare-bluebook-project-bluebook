@@ -1,15 +1,16 @@
 # Healthcare BlueBook
 - Professional Data Analysis Project 
+Links and instructions for downloading files are included in Preview.pptx
 
-Files
-- Medicare_Provider_Util_Payment_PUF_CY2017.csv<br>
+Files in the Data folder
+- <b>Medicare_Provider_Util_Payment_PUF_CY2017.csv</b><br>
    <i>Physician & Other Supplier Payments</i><br>
-   NOTE: This file is too large to be stored on GitHub, but can be loaded into Python
-- MUP_OHP_R19_P04_V10_D17_APC_Provider.csv<br>
+   NOTE: This file is not included as it's too large to be stored on GitHub but can be loaded into Python
+- <b>MUP_OHP_R19_P04_V10_D17_APC_Provider.csv</b><br>
    <i>Hospital Outpatient</i>
-- 508-Compliant-Version-of-2020_january_web_addendum_b.12312019.csv<br> and<br> 2020_january_web_addendum_b.12312019.csv<br>
+- <b>508-Compliant-Version-of-2020_january_web_addendum_b.12312019.csv</b><br> and<br> <b>2020_january_web_addendum_b.12312019.csv</b><br>
      <i>APC to CPT/HCPCS crosswalk</>   
-- ZIP_CBSA_032020.csv<br>
+- <b>ZIP_CBSA_032020.csv</b><br>
     Zip Code to CBSA
 
 
