@@ -11,7 +11,7 @@ Files in the Data folder
 - <b>508-Compliant-Version-of-2020_january_web_addendum_b.12312019.csv</b><br> and<br> <b>2020_january_web_addendum_b.12312019.csv</b><br>
      <i>APC to CPT/HCPCS crosswalk</i>   
 - <b>ZIP_CBSA_032020.csv</b><br>
-    Zip Code to CBSA
+    Zip Code to Core Based Statistical Areas (CBSA)
 
 
 Tentative Timeline
